@@ -1,10 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FollowCam.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MissionDemolition.cs">
     <Files>
-      <File FileName="Assets\Scripts\FollowCam.cs" Line="22" Column="2" />
-      <File FileName="Assets\Scripts\Slingshot.cs" Line="6" Column="28" />
+      <File FileName="Assets\ProjectileLine.cs" Line="32" Column="26" />
+      <File FileName="Assets\Scripts\FollowCam.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Slingshot.cs" Line="84" Column="34" />
       <File FileName="Assets\Scripts\CloudCrafter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Goal.cs" Line="19" Column="4" />
+      <File FileName="Assets\MissionDemolition.cs" Line="15" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
