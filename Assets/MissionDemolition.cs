@@ -114,6 +114,10 @@ public class MissionDemolition : MonoBehaviour {
 			}
 			break;
 		}
+		Rect Nextlvl = new Rect ((Screen.width / 2) - 50, 40, 100, 24);
+		if (GUI.Button (Nextlvl, "Next Level")) {
+				NextLevel ();
+			}
 	}
 
 	//Static method that allows code anywhere to request a view change
